@@ -36,3 +36,4 @@ This project implements an algorithmic trading strategy using **Backtrader** and
 ## Installation
 ```bash
 pip install backtrader xgboost pandas matplotlib seaborn ta numpy scikit-learn
+```
